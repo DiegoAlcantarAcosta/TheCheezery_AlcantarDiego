@@ -36,6 +36,7 @@
         <androidx.appcompat.widget.AppCompatButton
             android:layout_gravity="fill_horizontal"
             android:layout_marginRight="@dimen/menu_buttons_margin"
+            android:layout_marginBottom="5dp"
             android:background="@drawable/first_gradient"
             android:paddingHorizontal="@dimen/menu_buttons_padding"
             android:text="@string/cold_drinks"
@@ -49,6 +50,7 @@
         <androidx.appcompat.widget.AppCompatButton
             android:layout_gravity="fill_horizontal"
             android:layout_marginLeft="@dimen/menu_buttons_margin"
+
             android:background="@drawable/first_gradient"
             android:paddingHorizontal="@dimen/menu_buttons_padding"
             android:text="@string/Hot_drinks"
@@ -62,6 +64,7 @@
         <androidx.appcompat.widget.AppCompatButton
             android:layout_gravity="fill_horizontal"
             android:layout_marginRight="@dimen/menu_buttons_margin"
+            android:layout_marginBottom="5dp"
             android:background="@drawable/second_gradient"
             android:paddingHorizontal="@dimen/menu_buttons_padding"
             android:text="@string/sweets"

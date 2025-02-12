@@ -10,4 +10,8 @@
 
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="rosaNombreBebida">#B60089</color>
+    <color name="descripcion_producto">#262525</color>
+    <color name="precio_producto">#9E2E81</color>
 </resources>
